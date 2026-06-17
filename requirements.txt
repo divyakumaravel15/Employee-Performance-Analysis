@@ -1,0 +1,17 @@
+Libraries used 
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
+
+Explanation:
+
+pandas → Dataset handling
+numpy → Calculations
+matplotlib → Graphs
+seaborn → Visualization
+scipy → T-Test
+jupyter → Notebook
