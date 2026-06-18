@@ -1,8 +1,8 @@
-# Employee Performance and Satisfaction Analysis
+# Employee Performance Analysis
 
 ## Objective
 
-Analyze employee performance, satisfaction, and workplace trends.
+Analyze employee performance, productivity, and workplace trends.
 
 ## Dataset
 
